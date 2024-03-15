@@ -1,2 +1,2 @@
 # LinkedIn
-Data analysis if LinkedIn datasets
+Data analysis of LinkedIn datasets with data visualization and machine learning.
